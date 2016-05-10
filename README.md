@@ -1,7 +1,4 @@
-# Wordplay on HPE Helion Stackato
+# Wordplay meteor example app
 
-The Meteor based [Wordplay](https://www.meteor.com/examples/wordplay) example app deployed to HPE Helion Stackato using a [Cloud Foundry Community buildpack](https://github.com/cloudfoundry-community/cloudfoundry-buildpack-meteorite).
+It seems that the Meteor example app [Wordplay](https://www.meteor.com/examples/wordplay) no longer exists. I forked [btat's github code](https://github.com/btat/meteor-wordplay) (I could had forked [ajcrite's](https://github.com/ajcrites/meteor-wordplay)) in order to stady and play with this sample code.
 
-To deploy to HPE Helion Stackato
-
-    stackato push -n
